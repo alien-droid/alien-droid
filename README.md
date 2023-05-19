@@ -5,6 +5,7 @@
 - 💞️ I’m looking to collaborate on React, JavaScript (Vanilla), Python, Node, React, R.
 - 📫 How to reach me : [LinkedIn](https://www.linkedin.com/in/aditya-swe-sharma/)
 - 💬 i'd love to talk on Astronomy, Psychology and Zombie Apocalypse.
+- 🗒️ I have an alternate github (university) account, with more contributions and projects : [Alternate GitHub] (https://github.com/AFA22SCM68S) 
 
 <!---
 alien-droid/alien-droid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
