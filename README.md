@@ -10,7 +10,7 @@
 )
 
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alien-droid&theme=default&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alien-droid&theme=radical&show_icons=true&hide_border=true&count_private=true)
 
 <!---
 alien-droid/alien-droid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
